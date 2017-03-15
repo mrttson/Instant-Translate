@@ -1,0 +1,1 @@
+include ':app', ':SpeechToText', ':TextTranslate', ':TranslateAPI', ':TextTranslateWithCloud'
